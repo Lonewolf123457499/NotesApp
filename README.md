@@ -1,2 +1,4 @@
 # NotesApp
-#https://flourishing-maamoul-7b3c20.netlify.app/
+
+Domain of my Notes Applications 
+https://flourishing-maamoul-7b3c20.netlify.app/
